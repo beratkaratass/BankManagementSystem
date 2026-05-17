@@ -1,0 +1,8 @@
+*.class
+bin/
+.project
+.classpath
+.settings/
+.DS_Store
+*.log
+Musteriler.txt
