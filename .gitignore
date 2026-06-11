@@ -1,8 +1,7 @@
-*.class
-bin/
-.project
-.classpath
-.settings/
-.DS_Store
-*.log
-Musteriler.txt
+# Ignore everything
+/*
+
+# Except the source directory (and this file)
+!/.gitignore
+!/src/
+!/Bank_Queue_Management_System.pptx
